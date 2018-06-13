@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Education"
-      href: education.html
+    - text: "Education and curriculum"
+      href: education and curriculum.html
     - text: "About Me"
       href: about.html
       
