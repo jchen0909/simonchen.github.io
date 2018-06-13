@@ -2,4 +2,4 @@
 title: "My homepage"
 ---
 
-My name is Jiusheng Chen (Simon), I am a international student from China. My major is Big Data Analytics.
+My name is Jiusheng Chen (Simon), I am a international student from China. I am a graduate student in St. Thommas University, my major is Big Data Analytics.

@@ -3,5 +3,6 @@ title: "About me"
 ---
 
 Name: Jiusheng Chen (Simon)
+Education: St. Thomas University
 Phone #: 7865471561
 E-mail: Jchen@stu.edu
