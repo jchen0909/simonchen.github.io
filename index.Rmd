@@ -2,6 +2,8 @@
 title: "My homepage"
 ---
 
+![Caption for the picture.](C:/Users/simon/Downloads/ok.jpg)
+
 <img src="C:/Users/simon/Downloads/ok.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 My name is Jiusheng Chen (Simon), I am a international student from China. I am a graduate student in St. Thommas University, my major is Big Data Analytics.
