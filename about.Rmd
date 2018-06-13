@@ -1,6 +1,7 @@
 ---
-title: "About"
+title: "About me"
 ---
 
+Name: Jiusheng Chen (Simon)
 Phone #: 7865471561
 E-mail: Jchen@stu.edu
