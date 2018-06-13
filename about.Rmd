@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-# call me 7865471561
+Phone #: 7865471561
+E-mail: Jchen@stu.edu

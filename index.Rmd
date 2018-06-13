@@ -2,4 +2,4 @@
 title: "My homepage"
 ---
 
-i am a student
+My name is Jiusheng Chen (Simon), I am a international student from China.

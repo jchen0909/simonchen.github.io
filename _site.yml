@@ -1,7 +1,7 @@
-name: "Jiusheng Chen's (simon) website"
+name: "Jiusheng Chen (simon)"
 output_dir: "."
 navbar:
-  title: "Jiusheng Chen's (Simon) Website"
+  title: "Jiusheng Chen (Simon)"
   left:
     - text: "Home"
       href: index.html
