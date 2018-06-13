@@ -1,23 +1,38 @@
 ---
 title: "Education"
 ---
-Master: St. Thomas University
+Master: St.Thomas University
 
 Major: Big data analytics(10 courses, 30 credits)
 
+Attend year: August,2016 to June,2018
+
 Curriculums: 
  
- - Fundamentals of Big Data Analytics
- - Statistical Method
- - Applied Machine Learning
- - Data Mining and Machine Learning
- - Programming for Big Data Analytics
- - Data Visualization
- - Big Data Warehousing
- - Internet Protocols and Network Security
- - Big Data Analytics Applications
- - Big Data Analytics Capstone
+  - Fundamentals of Big Data Analytics
+  - Statistical Method
+  - Applied Machine Learning
+  - Data Mining and Machine Learning
+  - Programming for Big Data Analytics
+  - Data Visualization
+  - Big Data Warehousing
+  - Internet Protocols and Network Security
+  - Big Data Analytics Applications
+  - Big Data Analytics Capstone
 
-Bachelor: St Thomas Unversity
+Bachelor: St.Thomas Unversity
 
 Major: Computer Science (120 credits)
+
+Attend year: August,2012 to May,2016
+
+Curriculums:
+
+  - Microcomputer Applications
+  - C programming and Java programimng
+  - Database concept 
+  - Web programming
+  - Computer Network & communication
+  - Linear algebra
+  - University physics
+  - ...
