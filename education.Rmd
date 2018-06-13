@@ -1,7 +1,23 @@
 ---
 title: "Education"
 ---
-
 Master: St. Thomas University
 
+Major: Big data analytics(10 courses, 30 credits)
+
+Curriculums: 
+ 
+ - Fundamentals of Big Data Analytics
+ - Statistical Method
+ - Applied Machine Learning
+ - Data Mining and Machine Learning
+ - Programming for Big Data Analytics
+ - Data Visualization
+ - Big Data Warehousing
+ - Internet Protocols and Network Security
+ - Big Data Analytics Applications
+ - Big Data Analytics Capstone
+
 Bachelor: St Thomas Unversity
+
+Major: Computer Science (120 credits)
