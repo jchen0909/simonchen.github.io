@@ -9,4 +9,3 @@ My name is Jiusheng Chen (Simon), I am a international student from China. I beg
 
 After I complete the bachelor drgree in St.Thomas University, I continue my graduate study in St.thomas University, and major in Big data analytics. 
 
-My full CV is available [here](https://github.com/simoncjs/simonchen.github.io/blob/master/CHENJIUSHENG%20resume.pdf).
