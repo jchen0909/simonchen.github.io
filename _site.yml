@@ -8,7 +8,7 @@ navbar:
     - text: "Education"
       href: education.html
     - text: "Skill"
-      herf: skill.html
+      href: skill.html
     - text: "About Me"
       href: about.html
       

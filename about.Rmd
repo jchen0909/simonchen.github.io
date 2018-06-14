@@ -1,18 +1,19 @@
 ---
-title: "About me"
+title: "Contact Information"
 ---
+
 
 Jiusheng Chen (Simon)
 
 School of Science
 
-St. Thomas University
+St.Thomas University
 
 16401 NW 37 Avenue
 
 Miami Gardens, FL 33054
 
-Phone#:7865471561
+Phone:7865471561
 
 E-mail:Jchen@stu.edu | chenjiusheng1992@gmail.com
  
