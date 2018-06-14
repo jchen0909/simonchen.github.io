@@ -3,7 +3,7 @@ title: "Education"
 ---
 Master: St.Thomas University
 
-Major: Big data analytics(10 courses, 30 credits)
+Major: [Big data analytics](https://www.stu.edu/science/programs/MS-Big-Data-Analytics.html) (10 courses, 30 credits)
 
 Program Director: [Dr.Reinaldo Sanchez-Arias](https://www.stu.edu/science/faculty-staff/reinaldo-sanchez-arias.html)
 
@@ -24,7 +24,7 @@ Curriculums:
 
 Bachelor: St.Thomas Unversity
 
-Major: Computer Science (120 credits)
+Major: [Computer Science](https://www.stu.edu/science/programs/Computer-Science.html) (120 credits)
 
 Attend year: August,2012 to May,2016
 
