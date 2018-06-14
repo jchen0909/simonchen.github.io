@@ -9,6 +9,8 @@ navbar:
       href: education.html
     - text: "Skill"
       href: skill.html
+    - text: "Accomplishments"
+      href: Accomplishment.html
     - text: "About Me"
       href: about.html
       
