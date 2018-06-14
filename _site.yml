@@ -13,7 +13,13 @@ navbar:
       href: Accomplishment.html
     - text: "About Me"
       href: about.html
-      
+  right:
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/chenjiusheng
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/chenjiusheng/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/chen-jiusheng-b107999b/     
 output:
   html_document:
     theme: cosmo
