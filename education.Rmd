@@ -7,8 +7,6 @@ Major: [Big data analytics](https://www.stu.edu/science/programs/MS-Big-Data-Ana
 
 Program Director: [Dr.Reinaldo Sanchez-Arias](https://www.stu.edu/science/faculty-staff/reinaldo-sanchez-arias.html)
 
-[Bachelor Diploma](Bachelor diploma.jpg)
-
 Attend year: August,2016 to June,2018
 
 Curriculums: 
@@ -27,6 +25,8 @@ Curriculums:
 Bachelor: St.Thomas Unversity
 
 Major: [Computer Science](https://www.stu.edu/science/programs/Computer-Science.html) (120 credits)
+
+[Bachelor Diploma](Bachelor diploma.jpg)
 
 Attend year: August,2012 to May,2016
 
