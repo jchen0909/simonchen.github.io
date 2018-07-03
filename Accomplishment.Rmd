@@ -2,6 +2,9 @@
 title: "Accomplishments"
 ---
 
+**Crate a website Using RMarkdown.**
+
+
 **Internship**
 
  - St.Thomas University, Mianmi Gardens, Florida.
@@ -20,7 +23,6 @@ June,2017 to July,2017
 Used python to analysis the bus traffic system. Including the bus transportation operating data and data for upload passengers.
 
 
-**Crate a website Using RMarkdown.**
 
 **Course work/Projcet**
 
