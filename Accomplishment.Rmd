@@ -28,31 +28,26 @@ Used python to analysis the bus traffic system. Including the bus transportation
 
 #### MAT-502 Statistical methods.
 
- - [HW3](files//MAT_502_HW3_Chen.html)
- - [HW4](files//MAT_502_HW4_Chen.html)
- - [Final Project](files//MAT_502_Final_Project_Chen.html)
+ - [HW3](files//MAT_502_HW3_Chen.html) | [HW4](files//MAT_502_HW4_Chen.html) | [Final Project](files//MAT_502_Final_Project_Chen.html)
  
 #### MAT-602 Applied machine learning.
 
- - [HW1](files//MAT_602_HW1_chen.pdf)
- - [HW2](files//MAT_602_HW2_Chen.html)
- - [HW3](files//MAT_602_HW3_Chen.html)
- - [HW4](files//MAT_602_HW4_Chen.html)
- - [Final Project](files//MAT_602_Final_Project_Chen.html)
+ - [HW1](files//MAT_602_HW1_chen.pdf) | [HW2](files//MAT_602_HW2_Chen.html) | [HW3](files//MAT_602_HW3_Chen.html) | [HW4](files//MAT_602_HW4_Chen.html) | [Final Project](files//MAT_602_Final_Project_Chen.html)
 
 #### CIS-543 Program for data analytics.
 
- - [HW1](files//543_HW_1.html)   
- - [HW4](files//543_HW_4.html)
- - [HW6](files//543_HW_6.html)
+ - [HW1](files//543_HW_1.html) | [HW4](files//543_HW_4.html) | [HW6](files//543_HW_6.html)
  
 #### CIS-544 Data mining & machine learning.
 
- - [HW1](files//CIS_544_HW1_Chen.html)
- - [HW2](files//CIS_544_HW2_Chen.html)
- - [HW3](files//CIS_544_HW3_Chen.html)
- - [HW4](files//CIS_544_HW4_Chen.html)
- - [HW5](files//CIS_544_HW5_Chen.html)
- - [Final Project](files//CIS_544_Final_Project_Chen.pdf)
+ - [HW1](files//CIS_544_HW1_Chen.html) | [HW2](files//CIS_544_HW2_Chen.html) | [HW3](files//CIS_544_HW3_Chen.html) | [HW4](files//CIS_544_HW4_Chen.html) | [HW5](files//CIS_544_HW5_Chen.html) | [Final Project](files//CIS_544_Final_Project_Chen.pdf)
+ 
+#### CIS-546 Data visualization.
+
+  - [HW1](files//Austin_Animal_Center_Outcomes.nb.html) | [HW3](files/hw3.nb.html) | [Final Project](files//CIS-546_FINAL.nb.html)
+  
+#### CIS-547 Big Data Capstone
+
+  - [Dynamic Tolls](files//Dynamic toll.html)
  
  
