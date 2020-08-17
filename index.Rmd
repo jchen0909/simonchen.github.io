@@ -2,7 +2,6 @@
 title: "Biography"
 ---
 
-
 <img src="image//1966263_296649157151465_1941688263_o.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
 My name is Jiusheng Chen (Simon), I am a international student from China. I studied both my bachelor degree and master degree in St.Thomas University located in Miami Florida, my bachelor program is computer science and master program in big data analytics. 

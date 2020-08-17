@@ -2,7 +2,6 @@
 title: "Contact Information"
 ---
 
-
 Jiusheng Chen (Simon)
 
 Address: Miami FL 33172

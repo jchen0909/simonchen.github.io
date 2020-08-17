@@ -2,7 +2,7 @@
 title: "Education"
 ---
 
-Florida International University (FIU), Miami FL
+Florida International University (FIU), Miami FL.
 
 Master of Science in Information Systems, Dec 2020
 
@@ -20,7 +20,7 @@ Curriculums:
 - Mgmt of IS Function
 
 
-St.Thomas University (STU), Miami FL 
+St.Thomas University (STU), Miami FL.
 
 [Master of Science in Big Data Analytics](files/Master diploma.jpg), Aug 2018
 
@@ -37,7 +37,7 @@ Curriculums:
 - Big Data Analytics Applications
 - Big Data Analytics Capstone
 
-St.Thomas University (STU), Miami FL
+St.Thomas University (STU), Miami FL.
 
 [Bachelor of science in Computer Science](files/Bachelor diploma.jpg), May 2016
 

@@ -2,8 +2,6 @@
 title: "Skill"
 ---
 
-
-
   - Python
   - SQL
   - Tableau
