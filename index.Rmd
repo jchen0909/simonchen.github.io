@@ -3,10 +3,11 @@ title: "Biography"
 ---
 
 
-<img src="https://avatars2.githubusercontent.com/u/40158091?s=400&u=c761db94d3034bfb00165ddc48c2d1e8a51d4dbd&v=4" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+<img src="image//1966263_296649157151465_1941688263_o.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
-My name is Jiusheng Chen (Simon), I am a international student from China. I began my undergraduate study in [St.Thomas University](https://www.stu.edu/index.html) since 2012, my major is in Computer Science and I completed the bachelor degree in 2016. 
+My name is Jiusheng Chen (Simon), I am a international student from China. I studied both my bachelor degree and master degree in St.Thomas University located in Miami Florida, my bachelor program is computer science and master program in big data analytics. 
 
-After I complete the bachelor drgree in St.Thomas University, I continue my graduate study in St.thomas University, and major in Big data analytics. 
+Attend Florida International university in Jan 2020, major in Information Systems.
 
-[Resume](files//CHENJIUSHENG resume.pdf)
+
+[Resume](files//Jiusheng resume.pdf)

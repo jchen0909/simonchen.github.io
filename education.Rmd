@@ -1,44 +1,53 @@
 ---
 title: "Education"
 ---
-Master: St.Thomas University
 
-Major: [Big data analytics](https://www.stu.edu/science/programs/MS-Big-Data-Analytics.html) (10 courses, 30 credits)
+Florida International University (FIU), Miami FL
 
-Program Director: [Dr.Reinaldo Sanchez-Arias](https://www.stu.edu/science/faculty-staff/reinaldo-sanchez-arias.html)
-
-Master diaploma
-
-Attend year: August,2016 to June,2018
-
-Curriculums: 
- 
-  - Fundamentals of Big Data Analytics
-  - Statistical Method
-  - Applied Machine Learning
-  - Data Mining and Machine Learning
-  - Programming for Big Data Analytics
-  - Data Visualization
-  - Big Data Warehousing
-  - Internet Protocols and Network Security
-  - Big Data Analytics Applications
-  - Big Data Analytics Capstone
-
-Bachelor: St.Thomas Unversity
-
-Major: [Computer Science](https://www.stu.edu/science/programs/Computer-Science.html) (120 credits)
-
-[Bachelor diploma](files//Bachelor diploma.jpg)
-
-Attend year: August,2012 to May,2016
+Master of Science in Information Systems, Dec 2020
 
 Curriculums:
 
-  - Microcomputer Applications
-  - C programming and Java programimng
-  - Database concept 
-  - Web programming
-  - Computer Network & communication
-  - Linear algebra
-  - University physics
-  - ...
+- Project Management
+- Database Management
+- System Design & Analysis
+- Information Security Management
+- Business Process Design
+- IS Strategy & Governance
+- Data Warehousing
+- E-Business and Blockchain Applications 
+- Enterprise Info Systems
+- Mgmt of IS Function
+
+
+St.Thomas University (STU), Miami FL 
+
+[Master of Science in Big Data Analytics](files/Master diploma.jpg), Aug 2018
+
+Curriculums: 
+ 
+- Fundamentals of Big Data Analytics
+- Statistical Method
+- Applied Machine Learning
+- Data Mining and Machine Learning
+- Programming for Big Data Analytics
+- Data Visualization
+- Big Data Warehousing
+- Internet Protocols and Network Security
+- Big Data Analytics Applications
+- Big Data Analytics Capstone
+
+St.Thomas University (STU), Miami FL
+
+[Bachelor of science in Computer Science](files/Bachelor diploma.jpg), May 2016
+
+Curriculums:
+
+- Microcomputer Applications
+- C programming and Java programming
+- Database concept 
+- Web programming
+- Computer Network & communication
+- Linear algebra
+- University physics
+- ...

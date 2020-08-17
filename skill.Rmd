@@ -4,16 +4,12 @@ title: "Skill"
 
 
 
-#### Tools & Technologies
-
-  - R studio
-  
   - Python
-
-  - Java
-
   - SQL
-  
+  - Tableau
+  - SAS
+  - R studio
+  - Java
   - Microsoft Office
   
 
