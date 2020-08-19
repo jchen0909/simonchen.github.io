@@ -1,7 +1,6 @@
 ---
 title: "Education"
 ---
-
 Florida International University (FIU), Miami FL.
 
 Master of Science in Information Systems, Dec 2020
@@ -9,15 +8,22 @@ Master of Science in Information Systems, Dec 2020
 Curriculums:
 
 - Project Management
+  - [Microsoft project](files/ShipIT.pdf) 
 - Database Management
+  - Microsoft SQL Server Management Studio
+  - [LucidChart](files/Product_Line.pdf)
 - System Design & Analysis
+  - JAVA - [Eclipse](https://github.com/sangavikk/SecondThoughtApp/tree/master/SecondThoughtApp/src/secondthoughtapp)
+  - [Visual Paradigm](files/SecondThought.jpg)
+  - GitHub
 - Information Security Management
 - Business Process Design
+  - [LucidChart](files/bestbuy online purchasing.pdf)
 - IS Strategy & Governance
 - Data Warehousing
 - E-Business and Blockchain Applications 
-- Enterprise Info Systems
-- Mgmt of IS Function
+- Enterprise Information Systems
+- Management of Information Systems Function
 
 
 St.Thomas University (STU), Miami FL.
